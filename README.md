@@ -84,3 +84,11 @@ Run: python traffic_analysis.py
 🎥 Run with a Custom Video Input
 Run: python traffic_analysis.py --input path/to/your/video.mp4 --output output/video.mp4
 #Output
+
+
+Lane-Vehicle-Monitoring-System-frontend
+
+## 🚀 Live Demo
+
+You can access the live site here:  
+[ Live Site](https://sunkukarthik5.github.io/Lane-Vehicle-Monitoring-System-frontend-/)
